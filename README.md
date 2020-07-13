@@ -30,8 +30,7 @@ import generateRandomString from '@ivanhanak_com/random-string';
 
 ## Usage
 
-The function takes any number of string arguments.
-You can also use conditionals to append a className only if the condition is true.   
+The function takes no arguments.   
 
 ```javascript
 const randomString = generateRandomString();
