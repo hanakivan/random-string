@@ -1,6 +1,6 @@
 {
   "name": "@ivanhanak_com/random-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple & lightweight library for generating random strings.",
   "main": "./dist/index.js",
   "scripts": {
